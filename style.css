@@ -1,0 +1,92 @@
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: #FFFFFF;
+}
+
+.lead {
+    color: #FFFFFF;
+}
+
+.jep-header {
+    background-image: url("./Assets/Images/abstract-neon-background-with-glitch-effect-free-vector.jpg");
+    background-color: #161b7f;
+}
+
+p {
+    font-family: 'REM', sans-serif;
+    font-size:x-large;
+    color: #161b7f
+}
+
+.profile-picture {
+    border-radius: 50%;
+    border: 10px outset #223ccf;
+}
+
+.h3white {
+    font-family: 'Press Start 2P', cursive;
+    color: #161b7f;
+}
+
+
+.purple {
+    background-color: #161b7f;
+}
+
+.h3color {
+    font-family: 'Press Start 2P', cursive;
+    color: #FFFFFF;
+}
+
+.edulist {
+    color: #FFFFFF;
+    font-family: 'REM', sans-serif;
+    font-size: x-large;
+}
+
+.worklist {
+    color: #161b7f;
+    font-family: 'REM', sans-serif;
+    font-size: x-large;
+}
+
+.skilist {
+    color: #FFFFFF;
+    font-family: 'REM', sans-serif;
+    font-size: x-large;
+}
+
+.edudiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.workwork {
+    font-weight: bold;
+}
+
+.workdet {
+    font-size: large;
+}
+
+.portbox {
+    background-color: #0683D7;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.portainer {
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.pahina {
+    display: flex;
+    height: 10rem;
+    justify-content: center;
+}
